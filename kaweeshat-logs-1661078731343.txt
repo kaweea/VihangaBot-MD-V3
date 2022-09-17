@@ -1,0 +1,10 @@
+2022-08-21T10:42:32.608349+00:00 app[worker.1]:   program 'bot.js'
+2022-08-21T10:42:32.608412+00:00 app[worker.1]:   --watch '.'
+2022-08-21T10:42:32.608463+00:00 app[worker.1]:   --extensions 'node,js'
+2022-08-21T10:42:32.608508+00:00 app[worker.1]:   --exec 'node'
+2022-08-21T10:42:32.608570+00:00 app[worker.1]: 
+2022-08-21T10:42:32.608782+00:00 app[worker.1]: Starting child process with 'node bot.js'
+2022-08-21T10:42:32.701356+00:00 app[worker.1]: Watching directory '/root/aquabot' for changes.
+2022-08-21T10:42:32.701446+00:00 app[worker.1]: Press rs for restarting the process.
+2022-08-21T10:42:34.921405+00:00 app[worker.1]: Loading SI language...
+2022-08-21T10:42:40.425758+00:00 app[worker.1]: 🚫invalid session code . only works with aquabot md session codes🚫
